@@ -1,0 +1,48 @@
+img{
+  height: 300px;
+  width: 400px;
+  margin-left: 2.5%;
+  border: 5px #490512 solid;
+  border-radius: 10%;
+}
+#home{
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+#movie{
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+#abc{
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+#Sports{
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+body{
+  background-image:url("../Images/img2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+  color: #ef0721;
+  margin-top: 70px;
+}
+.navbar{
+  background-color: #100014;
+  color: #dcf7d7
+}
+a{
+  font-size: 20px;
+  font-weight: bold;
+}
